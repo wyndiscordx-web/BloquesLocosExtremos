@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "balance": {
+    "base_score_multiplier": 1,
+    "combo_score_step": 0.5,
+    "max_combo_score_multiplier": 5.0
+  },
+  "admin_abuse": {
+    "active": false,
+    "extra_multiplier": 1,
+    "start_unix": 0,
+    "end_unix": 0
+  }
+}
