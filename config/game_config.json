@@ -1,7 +1,7 @@
 {
   "version": 1,
   "balance": {
-    "base_score_multiplier": 1,
+    "base_score_multiplier": 2,
     "combo_score_step": 0.5,
     "max_combo_score_multiplier": 5.0
   },
